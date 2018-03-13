@@ -1,5 +1,5 @@
 # Fetch
-Mujoco Models for Fetch Robots. Stills from the environments are attached below
+Mujoco Models for Fetch Robots. Pictures from few environments are attached below
 
 <img src="https://github.com/vikashplus/fetch/blob/master/gallery/boxes.JPG" width="200"/> <img src="https://github.com/vikashplus/fetch/blob/master/gallery/pole.JPG" width="199"/> <img src="https://github.com/vikashplus/fetch/blob/master/gallery/maneuver.JPG" width="200"/> <img src="https://github.com/vikashplus/fetch/blob/master/gallery/objects.JPG" width="202"/> 
 
