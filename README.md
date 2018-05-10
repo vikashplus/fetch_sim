@@ -1,6 +1,7 @@
 # Fetch
 Mujoco Models for Fetch Robot
 
+# Environments 
 
 fetch_pole.xml           |  fetch_maneuver.xml       |teleOp_boxes.xml             | teleOp_objects.xml          
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
