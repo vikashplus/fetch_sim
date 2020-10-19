@@ -1,15 +1,15 @@
 <!-- ======================================================
     Model       :: Table
-        
+
     Mujoco      :: Advanced physics simulation engine
         Source      : www.roboti.us
         Version     : 1.41
         Released    : 22Aug'16
-        
+
     Author      :: Vikash Kumar
         Contacts    : kumar@roboti.us
         Last edits  : 05Oct'16
-====================================================== -->
+====================================================== -©vk©-->
 <mujocoinclude>
 
 	<asset>
@@ -19,5 +19,5 @@
 		<material name="table2d" texture="marble2d" reflectance="0.3" rgba=".8 .8 .8 1"/>
 		<material name="tablecube" texture="marblecube" rgba=".8 .8 .8 1"/>
 	</asset>
-	
+
 </mujocoinclude>
