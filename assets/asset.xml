@@ -57,14 +57,14 @@
 	</default>
 
 	<sensor>
-		<jointpos name="shoulder_pan_jp" joint="robot:shoulder_pan_joint" />
-		<jointpos name="shoulder_lift_jp" joint="robot:shoulder_lift_joint" />
-		<jointpos name="upperarm_roll_jp" joint="robot:upperarm_roll_joint" />
-		<jointpos name="elbow_flex_jp" joint="robot:elbow_flex_joint" />
-		<jointpos name="forearm_roll_jp" joint="robot:forearm_roll_joint" />
-		<jointpos name="wrist_flex_jp" joint="robot:wrist_flex_joint" />
-		<jointpos name="wrist_roll_jp" joint="robot:wrist_roll_joint" />
-		<jointpos name="r_gripper_finger_jp" joint="robot:r_gripper_finger_joint" />
-		<jointpos name="l_gripper_finger_jp" joint="robot:l_gripper_finger_joint" />
+		<jointpos name="shoulder_pan_jp" joint="shoulder_pan_joint" />
+		<jointpos name="shoulder_lift_jp" joint="shoulder_lift_joint" />
+		<jointpos name="upperarm_roll_jp" joint="upperarm_roll_joint" />
+		<jointpos name="elbow_flex_jp" joint="elbow_flex_joint" />
+		<jointpos name="forearm_roll_jp" joint="forearm_roll_joint" />
+		<jointpos name="wrist_flex_jp" joint="wrist_flex_joint" />
+		<jointpos name="wrist_roll_jp" joint="wrist_roll_joint" />
+		<jointpos name="r_gripper_finger_jp" joint="r_gripper_finger_joint" />
+		<jointpos name="l_gripper_finger_jp" joint="l_gripper_finger_joint" />
 	</sensor>
 </mujocoinclude>
