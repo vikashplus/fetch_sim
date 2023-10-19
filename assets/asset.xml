@@ -41,6 +41,7 @@
 
 	<contact>
 		<exclude body1="r_gripper_finger_link" body2="l_gripper_finger_link"/>
+		<exclude body1="shoulder_lift_link" body2="torso_lift_link"/>
 	</contact>
 
 	<default>
